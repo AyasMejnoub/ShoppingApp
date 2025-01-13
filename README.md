@@ -18,7 +18,6 @@ Shopping App est une application web complète pour la gestion des achats en lig
 - **Node.js** avec **Express.js**
 - Base de données **MongoDB** (via **Mongoose**)
 - Sécurisation avec **JWT** et **bcrypt**
-- Gestion des emails (optionnel avec **Nodemailer**)
 
 ### Frontend
 - **React.js** pour l'interface utilisateur
