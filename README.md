@@ -38,6 +38,9 @@ Shopping App est une application web complète pour la gestion des achats en lig
 Clonez ce repository sur votre machine locale :
 ```bash
 git clone https://github.com/AyasMejnoub/ShoppingApp/
-cd shopping-app
+
+Pour tester les différents fonctionnalités, voilà un compte avec le role admin et un compte avec le role seller :
+admin@example.com/adminpassword
+seller@example.com/password123
 
 
